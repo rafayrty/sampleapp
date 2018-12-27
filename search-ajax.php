@@ -1,7 +1,4 @@
 <?php 
-// yeh isset ki ak addition kri ha yeh darasal kya krti h kainaa check krti ha ka post arhi ha S ki agr nhh
-//too phrr tum s ki value simple empty krdoo jissy yeh ak sath sary ka sary record fetch krly yeh jb textbox
-//empty krdain ga tb chlegaa or jb page load hta h
 if(!isset($_POST['s'])){
 $_POST['s']='';
 }
