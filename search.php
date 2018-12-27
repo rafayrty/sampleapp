@@ -3,7 +3,6 @@
 	//Iss Project Ki Saari Explantation Yeh Kesay Chl Raha h
 	//Purana Code Mainy Comment kra hua h reasons b mentioned hain qqq?
  ?>
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Search</title>
